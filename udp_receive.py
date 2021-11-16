@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import _thread, time, socket
+# How to run this file:
+# python3 udp_receive.py
 
 # Empty data variable where incoming messages will be stored
 data = ''   # Declare an empty variable
